@@ -1,0 +1,81 @@
+<?php
+
+/*
+ * local is where keys and secrets are stored
+ */
+return [
+    'social-config' => [
+        /**
+         * Facebook Client ID (This is the "App ID" in Facebook console.)
+         */
+        'facebook_client_id' => '',
+        /**
+         * Facebook Secret (This is the "App Secret" in the FWacebook console
+         */
+        'facebook_secret' => '',
+        /**
+         * Foursquare Client ID
+         */
+        'foursquare_client_id' => '',
+        /**
+         * Foursquare Secret
+         */
+        'foursquare_secret' => '',
+        /**
+         * GitHub Client ID
+         */
+        'git_hub_client_id' => '',
+        /**
+         * GitHub Secret
+         */
+        'git_hub_secret' => '',
+        /**
+         * Google Client Id
+         */
+        'google_client_id' => '',
+        /**
+         * Google Secret
+         */
+        'google_secret' => '',
+        /**
+         * Linked in Client Id
+         */
+        'linked_in_client_id' => '',
+        /**
+         * LinkedIn Secret
+         */
+        'linked_in_secret' => '',
+        /**
+         * Windows Live in Client Id
+         */
+        'live_client_id' => '',
+        /**
+         * Windows Live Secret (password)
+         */
+        'live_secret' => '',
+        /**
+         * Twitter Consumer Key
+         */
+        'twitter_consumer_key' => '',
+        /**
+         * Twitter Consumer Secret
+         */
+        'twitter_consumer_secret' => '',
+        /**
+         * Yahoo in Client Id
+         */
+        'yahoo_client_id' => '',
+        /**
+         * Yahoo Secret
+         */
+        'yahoo_secret' => '',
+        /**
+         * Yandex Client Id
+         */
+        'yandex_client_id' => '',
+        /**
+         * Yandex Secret
+         */
+        'yandex_secret' => '',
+    ]
+];
