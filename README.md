@@ -1,6 +1,8 @@
 # ZF-Three-Social-Auth
 Social Sign-in and registration for Zend Framework 3 Web Applications.
+
 ![ScreenShot](view/img/github-read-me/social-sign-in-screen-shot.png)
+
 ## Dependencies
 This example is based on the Userdemo at https://github.com/olegkrivtsov/using-zf3-book-samples/tree/master/userdemo and you need to install that project before starting ZF-Three-Social-Auth. 
 
