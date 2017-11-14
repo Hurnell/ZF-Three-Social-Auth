@@ -1,5 +1,5 @@
 # ZF-Three-Social-Auth
-Social Sign-in and registration for Zend Framework 3 Web Applications.
+Social Sign-in and registration for Zend Framework 3 Web Applications.  
 
 ![ScreenShot](view/img/github-read-me/social-sign-in-screen-shot.png)
 
