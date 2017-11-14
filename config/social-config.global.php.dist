@@ -24,11 +24,11 @@ return [
          */
         'login_text' => 'You can sign in with your social account if that social account uses the same e-mail account as this system uses',
         /**
-         * 
+         * Header text for area where social registration list appears
          */
         'registration_header' => 'Social Registration',
         /**
-         * 
+         * Explanation text for area where social registration list appears
          */
         'registration_text' => 'Social Registration',
         /**
